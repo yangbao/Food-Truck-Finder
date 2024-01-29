@@ -1,0 +1,13 @@
+spring:
+  profiles: common
+
+tencent:
+  cloud:
+    appId: 腾讯云APPID
+    secretId: 腾讯云SecretId
+    secretKey: 腾讯云SecretKey
+    region-public: 公有存储桶所在地域
+    bucket-public: 公有存储桶名称
+    region-private: 私有存储桶所在地域
+    bucket-private: 私有存储桶名称
+
