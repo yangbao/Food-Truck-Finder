@@ -1,7 +1,7 @@
 ## Food-Truck-Finder
-### User Story: Find the food truck
-- 	Card: As a user, I hope to find the nearest food truck through APP. 
-- 	Talk: 
+### User Story: Find the food truck  
+- 	Card: As a user, I hope to find the nearest food truck through APP.   
+- 	Talk:    
   Product: This back-end function can be described as: the user can quickly locate the nearest food car through this function.  
   Dev: How to determine the concept of "nearest".Map distance or straight line distance of latitude and longitude coordinates?  
   Product: This is a good question, we will not introduce the map function during the first phase for simplicity.  
