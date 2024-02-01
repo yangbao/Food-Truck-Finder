@@ -41,8 +41,6 @@ hxds-maps : supply map service
 hxds-mis-api: Operation backstage
 
 ## Technical architecture
-
-
-
+![Uploading image.png…]()
 
 
