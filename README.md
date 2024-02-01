@@ -41,6 +41,8 @@ hxds-maps : supply map service
 hxds-mis-api: Operation backstage
 
 ## Technical architecture
-![Uploading image.png…]()
+![image](https://github.com/yangbao/Food-Truck-Finder/assets/4555259/51a89ad9-3654-42f7-8a79-770d522ec28d)
+
+![image](https://github.com/yangbao/Food-Truck-Finder/assets/4555259/67448099-4bb9-4474-98de-2a9dad9aafb6)
 
 
