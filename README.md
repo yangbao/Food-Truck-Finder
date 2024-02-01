@@ -45,4 +45,10 @@ hxds-mis-api: Operation backstage
 
 ![image](https://github.com/yangbao/Food-Truck-Finder/assets/4555259/67448099-4bb9-4474-98de-2a9dad9aafb6)
 
+## To Be Done
+
+Parse the required data according to the data file - 
+#美食车 经纬度和地址 名字
+Food truck longitude, latitude and address name
+
 
