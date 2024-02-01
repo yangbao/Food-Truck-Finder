@@ -46,9 +46,8 @@ spring:
       min-idle: 8
       max-wait: 60000
       test-while-idle: true
-      test-on-borrow: true
+      test-on-borrow: false
       test-on-return: false
-      validation-query: SELECT 1
   servlet:
     multipart:
       enabled: true

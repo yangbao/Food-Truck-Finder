@@ -3,11 +3,27 @@ spring:
 
 tencent:
   cloud:
-    appId: 腾讯云APPID
-    secretId: 腾讯云SecretId
-    secretKey: 腾讯云SecretKey
-    region-public: 公有存储桶所在地域
-    bucket-public: 公有存储桶名称
-    region-private: 私有存储桶所在地域
-    bucket-private: 私有存储桶名称
+    appId: 必填
+    secretId: 必填
+    secretKey: 必填
+    region-public: 必填
+    bucket-public: 必填
+    region-private: 必填
+    bucket-private: 必填
+    face:
+      groupName: 必填
+      region: 必填
+  map:
+    key: 必填
+wx:
+  app-id: 必填
+  app-secret: 必填
+  mch-id: 必填
+  key: 必填
+  cert-path: 必填
+
+minio:
+  endpoint: http://localhost:9000
+  access-key: root
+  secret-key: abc123456
 

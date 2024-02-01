@@ -14,6 +14,7 @@
         <module>hxds-maps</module>
         <module>gateway</module>
         <module>hxds-mis-api</module>
+        <module>hxds-tm</module>
     </modules>
 
     <packaging>pom</packaging>
